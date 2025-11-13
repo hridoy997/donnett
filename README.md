@@ -53,7 +53,7 @@ License
 How to commit this README (example)
 
 ```powershell
-cd "g:\Programing\C PROJECT\donnett"
+cd "C:\Programing\C PROJECT\donnett"
 # stage the new file
 git add README.md
 # create a commit with a concise message
